@@ -53,7 +53,7 @@ d) Trucks with medium charge and no need for a break (case 6) will only charge w
 In addition, overnight charging behaviours are included in eHGV-CM with the assumption that any vehicle arriving at the charging station between 7 PM and 6 AM with an SOC below a certain threshold value (e.g., 80%) will charge for 9 hours if a slow charger is available. Otherwise, they will follow the behaviours outlined in the groups above based on SOC and time-to-break. The model is flexible and  allows for adjustments to the overnight charging window as new evidence becomes available. 
 To understand the requirements of eHGV charging infrastructure, eHGV-CM allows for adjusting important factors such as the number of chargers for each type, parking space availability, and the threshold value of the SoC through the Graphic User Interface (GUI) as per Figure 1. The model also allows for the configuration of different arrival profiles for each case. Additionally,  eHGV-CM includes key output metrics, such as time spent queuing, time ‘wasted’ charging (i.e. charging while not on a mandatory break), and charger utilization efficiency, which are dynamically monitored.
 
-![Caption for example figure.](figure1.png){width=80%}
+![Caption for example figure.](figure1.png)
 
 
 
