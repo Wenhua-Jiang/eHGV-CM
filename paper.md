@@ -38,11 +38,11 @@ Given the absence of empirical charging data for eHGVs, we simulate the charging
 
 Table 1 Case numbers for the nine combinations of SoC time until mandated rest break (‘time-to-break’)
 
-| Charge Level     | Rest Break Imminent | Rest Break Soon | Rest Break Distant |
+| Charge Level     | Rest Break Imminent| Rest Break Soon| Rest Break Distant|
 |------------------|--------------------|-----------------|--------------------|
-| Low Charge     | 1                  | 2               | 3                  |
-| Medium Charge  | 4                  | 5               | 6                  |
-| High Charge    | 7                  | 8               | 9                  |
+| Low Charge       | 1                  | 2               | 3                  |
+| Medium Charge    | 4                  | 5               | 6                  |
+| High Charge      | 7                  | 8               | 9                  |
 
 
 As eHGV adoption is still in its infancy, there is very limited data that can be used to underpin the behaviours of the truck drivers in the model. Therefore, these behaviours are exploratory and are intended to help the user to understand the impact of different driver decisions. Specific driver behaviours are unique to each case, but broadly they can be categorised into the following four behaviour groups:
