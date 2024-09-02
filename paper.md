@@ -1,17 +1,22 @@
 ---
-title: eHGV-CM: A tool for modelling the charging of electric heavy-goods vehicles 
+title: "eHGV-CM: A Tool for Modelling the Charging of Electric Heavy-Goods Vehicles"
 authors:
-- name: Wenhua Jiang
-  affiliation: 1
-- Nick Malleson
-  affiliation: "1, 2"
-- Mark Birkin
-  affiliation: "1, 2"
+  - name: Wenhua Jiang
+    affiliation: 1
+    corresponding: true # (This is how to denote the corresponding author)
+  - name: Nick Malleson
+    affiliation: "1, 2"
+  - name: Mark Birkin
+    affiliation: "1, 2"
 affiliations:
-- name: Alan Turing Institute, British Library, 96 Euston Road, London NW1 2DB, United Kingdom
-  index: 1
-- name: Institute for Spatial Data Science, School of Geography, University of Leeds, Woodhouse Lane, Leeds LS2 9JT, United Kingdom
-- index: 2
+ - name: Alan Turing Institute, British Library, 96 Euston Road, London NW1 2DB, United Kingdom
+   index: 1
+ - name: Institute for Spatial Data Science, School of Geography, University of Leeds, Woodhouse Lane, Leeds LS2 9JT, United Kingdom
+   index: 2
+date: 13 August 2017
+bibliography: paper.bib
+
+---
 
 # Summary
 
