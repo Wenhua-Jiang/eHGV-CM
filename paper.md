@@ -13,7 +13,7 @@ affiliations:
    index: 1
  - name: Institute for Spatial Data Science, School of Geography, University of Leeds, Woodhouse Lane, Leeds LS2 9JT, United Kingdom
    index: 2
-date: 22 August 2024
+date: 6 September 2024
 bibliography: paper.bib
 ---
 
@@ -59,7 +59,7 @@ To understand the requirements of eHGV charging infrastructure, eHGV-CM allows f
 
 # Conclusion and Availability
 
-The developed eHGV-CM enables analysis of various charging infrastructure configurations. It can assist stakeholders in making informed decisions regarding infrastructure investments, deployment strategies, and policy formulations to support the widespread adoption of eHGVs. The code and documentation are hosted on a publicly available GitHub repository.
+The developed eHGV-CM enables analysis of various charging infrastructure configurations. It can assist stakeholders in making informed decisions regarding infrastructure investments, deployment strategies, and policy formulations to support the widespread adoption of eHGVs. 
 
 # Acknowledgements 
 We acknowledge funding and support from Department for Transport.
