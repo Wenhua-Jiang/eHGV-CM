@@ -1,14 +1,8 @@
-# Statement of need
+# eHGV-CM: A Tool for Modelling the Charging of Electric Heavy-Goods Vehicles
 
-In the context of modelling eHGV charging, understanding the requirements of the charging infrastructure is imperative for accurately capturing charging behaviour dynamics.
-These behaviours are influenced by factors like arrival patterns, charger availability, and the state of charge (SoC) upon arrival of trucks. 
-In eHGV-CM, eHGVs are represented as individual agents in an agent-based model (ABM), each equipped with unique behaviours, preferences, and decision-making capabilities. 
-Variables such as arrival battery state of charge (SoC) and time until the next mandated break have been integrated into the drivers' decision-making processes. 
-This integration enables the simulation of scenarios wherein eHGVs dynamically adapt their charging behaviour in response to varying battery charge levels and imminent operational 
-constraints. Moreover, this approach enables the depiction of real-world complexities, including diverse vehicle arrival times and charging demand patterns. 
+In the context of modelling eHGV charging, understanding the requirements of the charging infrastructure is imperative for accurately capturing charging behaviour dynamics.These behaviours are influenced by factors like arrival patterns, charger availability, and the state of charge (SoC) upon arrival of trucks. In eHGV-CM, eHGVs are represented as individual agents in an agent-based model (ABM), each equipped with unique behaviours, preferences, and decision-making capabilities. Variables such as arrival battery state of charge (SoC) and time until the next mandated break have been integrated into the drivers' decision-making processes. This integration enables the simulation of scenarios wherein eHGVs dynamically adapt their charging behaviour in response to varying battery charge levels and imminent operational constraints. Moreover, this approach enables the depiction of real-world complexities, including diverse vehicle arrival times and charging demand patterns. 
 
-The resulting level of granularity facilitates the exploration of complex interactions among eHGVs and charging infrastructures, 
-thereby facilitating the identification of optimal charging strategies, infrastructure configurations, and policy interventions. 
+The resulting level of granularity facilitates the exploration of complex interactions among eHGVs and charging infrastructures, thereby facilitating the identification of optimal charging strategies, infrastructure configurations, and policy interventions. 
 
 By simulating these interactions within a virtual environment, we gain valuable insights into the impact of different charging infrastructure designs 
 on system performance, efficiency, and overall sustainability. This will help policymakers, planners, and industry stakeholders make informed decisions 
@@ -18,9 +12,8 @@ maximum driving time permitted before mandatory rest breaks or the potential max
 
 
 # Installation
-The simulation model is implemented in NetLogo. Please install NetLogo version 6.4 from https://ccl.northwestern.edu/netlogo/download.shtml. On
-Windows and macOS systems, double-clicking the NetLogo application or the model code ./netlogo/vinos.nlogo will open NetLogo's integrated development environment. 
-On Linux, start NetLogo with the netlogo-gui.sh shell script provided by NetLogo.
+
+The simulation model is implemented in NetLogo. To run the model, please install NetLogo version 6.4 from https://ccl.northwestern.edu/netlogo/download.shtml. On Windows and macOS, you can open NetLogo by double-clicking the application or the model file ./netlogo/vinos.nlogo, which will launch the integrated development environment (IDE). On Linux, start NetLogo with the netlogo-gui.sh shell script provided by NetLogo.
 
 
 # Using the model
