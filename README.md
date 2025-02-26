@@ -18,5 +18,10 @@ The simulation model is implemented in NetLogo. To run the model, please install
 
 # Using the model
 
-Upon opening the model, all data are loaded, variables are initialized with default values and the Interface tab of the IDE is shown, with a North Sea map displayed in the world view panel, and sliders and switches to change parameters. Upon clicking the go button, the model advances and the view as well as the line and bar plots are updated.
+Upon opening the model, all data are loaded, variables are initialized with default values and the Interface tab of the IDE is shown, with a hypthetic charging station displayed in the world view panel, and sliders and switches to change parameters. Upon clicking the go button, the model advances and the view as well as the line and bar plots are updated.
+
+
+# Evaluating a model simulation
+
+The typical evaluation of a NetLogo model is visual inspection, as its canonical use is for education or participatory modeling. So go explore the changes in the view and the line and bar plots as you change parameters.
 
