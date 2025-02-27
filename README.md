@@ -10,7 +10,6 @@ and to optimise the deployment and operation of eHGV charging infrastructure as 
 vehicle availability and driver regulations, but the model is broadly generalisable to similar jurisdictions by altering a few key variables (such as the 
 maximum driving time permitted before mandatory rest breaks or the potential maximum power of charging facilities).
 
-
 # Installation
 
 The simulation model is implemented in NetLogo. To run the model, please install NetLogo version 6.4 from https://ccl.northwestern.edu/netlogo/download.shtml. On Windows and macOS, you can open NetLogo by double-clicking the application or the model file ./netlogo/vinos.nlogo, which will launch the integrated development environment (IDE). On Linux, start NetLogo with the netlogo-gui.sh shell script provided by NetLogo.
@@ -23,5 +22,8 @@ Upon opening the model, all data are loaded, variables are initialized with defa
 
 # Evaluating a model simulation
 
+
 The typical evaluation of a NetLogo model is visual inspection, as its canonical use is for education or participatory modeling. So go explore the changes in the view and the line and bar plots as you change parameters.
+
+
 
