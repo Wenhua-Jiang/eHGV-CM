@@ -17,8 +17,9 @@ The simulation model is implemented in NetLogo. To run the model, please install
 
 # Using the model
 
-Upon opening the model, the truck arrival data (default_arrivals.csv) is loaded, and variables are initialized with their default values. The Interface tab of the IDE is displayed, showcasing a hypothetical charging station with various types of chargers in the world view panel. Sliders and switches are available to adjust parameters. When the "Go" button is clicked, the model advances, updating the view along with the plots.
+Upon opening the model, the truck arrival data (default_arrivals.csv) is loaded, and variables are initialized with their default values. The Interface tab of the IDE is displayed, featuring a hypothetical charging station with various types of chargers in the world view panel. Sliders and switches are available for adjusting parameters. When the "Go" button is clicked, the model advances, updating the view along with the plots.
 
+The model allows for evaluating different charging station configurations. By default, the charging station is equipped with three types of chargers: ultra-fast chargers (1 MW), fast chargers (350 kW), and slow chargers (150 kW), with slow chargers primarily used for overnight charging. The quantities of each charger type can be adjusted using the sliders in the model. Additionally, you can modify the low and high battery thresholds, as well as the ratio of large trucks to small trucks. For more details about the model, please refer to the info tab.
 
 
 # Evaluating a model simulation
