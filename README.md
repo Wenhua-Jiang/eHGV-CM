@@ -16,11 +16,11 @@ Upon opening the model, the truck arrival data (default_arrivals.csv) is loaded,
 The model allows for evaluating different charging station configurations. By default, the charging station is equipped with three types of chargers: ultra-fast chargers, fast chargers, and slow chargers, with slow chargers primarily used for overnight charging. The quantities of each charger type can be adjusted using the sliders in the model. Additionally, you can modify the low and high battery thresholds, as well as the ratio of large trucks to small trucks. For more details about the model, please refer to the Info tab in the NetLogo graphical interface.
 
 
-# Evaluating a model simulation
+# Evaluating the model simulation
 
-NetLogo models are typically evaluated through visual inspection, as they are primarily designed for participatory modeling. As you adjust parameters, observe how the plots and monitors respond to changes.
+NetLogo models are typically assessed through visual inspection, as they are designed for interactive simulations and participatory modeling. The model's behavior can be evaluated by adjusting parameters and observing how plots and monitors respond to changes.
 
-By running the simulation with different configurations and settings, users can assess the impact of various charging strategies. Factors such as charger availability and truck arrival patterns affect the number of queued trucks, queue times, charging durations, and overall charging utilization efficiency.
+By running the simulation with different parameter configurations, users can evaluate how factors such as charger availability impact the number of queued trucks, queue times, charging durations, and overall charging utilization efficiency.
 
 
 # Contributing
