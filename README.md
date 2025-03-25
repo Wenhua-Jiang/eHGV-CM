@@ -30,17 +30,14 @@ The model does write out geospatial data for later analysis with third-party GIS
 
 # Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+We greatly appreciate your feedback, bug reports, and suggestions for improvement. To share your thoughts, simply open an issue on our repository. We also welcome your contributions!
+The best way to contribute is by following these steps:
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+    (1) Forking our repository
 
-    Fork the Project
-    Create your Feature Branch (git checkout -b feature/AmazingFeature)
-    Commit your Changes (git commit -m 'Add some AmazingFeature')
-    Push to the Branch (git push origin feature/AmazingFeature)
-    Open a Pull Request
+    (2) Committing your changes to your fork
 
-We appreciate your feedback, bug reports and improvement suggestions on our issue tracker. We also welcome your contributions, subject to our Contributor
-Covenant code of conduct and our contributor license agreement. The best way to contribute is by (1) creating a fork off our repository, (2) committing your changes on your fork and then (3) creating a pull request ("PR") to push your changes back to us.
+    (3) Creating a pull request (PR) to submit your changes back to us
+
 
 
