@@ -11,14 +11,21 @@ The simulation model is implemented in NetLogo. To run the model, please install
 
 # Using the model
 
-Upon opening the model, the truck arrival data (default_arrivals.csv) is loaded, and variables are initialized with their default values. The Interface tab of the IDE is displayed, showcasing a hypothetical charging station with various charger types in the world view panel. Sliders and switches are provided to adjust parameters. When the "Go" button is clicked, the model advances, updating the plots and displaying key output metrics on the monitors.
+## Initializing the simulation
+Upon launching the model, click "setup" to initialize the simulation.  The truck arrival data (default_arrivals.csv) is loaded, and variables are initialized with their default values. The Interface tab of the IDE is displayed, showcasing a hypothetical charging station with various charger types in the world view panel. 
 
-The model allows for evaluating different charging station configurations. By default, the charging station is equipped with three types of chargers: ultra-fast chargers, fast chargers, and slow chargers, with slow chargers primarily used for overnight charging. The quantities of each charger type can be adjusted using the sliders in the model. Additionally, you can modify the low and high battery thresholds, as well as the ratio of large trucks to small trucks. For more details about the model, please refer to the Info tab in the NetLogo graphical interface.
 
+## Configuring the charging station
+
+The model allows for evaluating different charging station configurations. By default, the charging station is equipped with three types of chargers: ultra-fast chargers, fast chargers, and slow chargers, with slow chargers primarily used for overnight charging. You can adjust the number of chargers, modify the low and high battery thresholds, and change the ratio of large to small trucks using the sliders in the model.
+
+## Running the simulation
+Click "Go" to start the simulation. The model will run according to the specified parameters until it reaches the maximum run time, dynamically updating plots and key metrics on the monitors.
+ 
 
 # Evaluating the model simulation
 
-NetLogo models are typically assessed through visual inspection, as they are designed for interactive simulations and participatory modeling. The model's behavior can be evaluated by adjusting parameters and observing how plots and monitors respond to changes.
+NetLogo models are typically assessed through visual inspection, as they are designed for interactive simulations and participatory modeling. The model's behaviour can be evaluated by adjusting parameters and observing how plots and monitors respond to changes.
 
 By running the simulation with different parameter configurations, users can evaluate how factors such as charger availability impact the number of queued trucks, queue times, charging durations, and overall charging utilization efficiency.
 
