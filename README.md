@@ -19,8 +19,8 @@ Upon launching the model, click "setup" to initialize the simulation.  The truck
 
 The model allows for evaluating different charging station configurations. By default, the charging station is equipped with three types of chargers: ultra-fast chargers, fast chargers, and slow chargers, with slow chargers primarily used for overnight charging. You can adjust the number of chargers, modify the low and high battery thresholds, and change the ratio of large to small trucks using the sliders in the model.
 
-## Running the simulation
-Click "Go" to start the simulation. The model will run according to the specified parameters until it reaches the maximum run time, dynamically updating plots and key metrics on the monitors.
+## Running the model
+For ease of testing and demonstration, we provide a sample input file named default_arrival.csv, which contains representative agent arrival patterns. This file can be loaded into the model, which will then run using the default parameter settings. To begin the simulation, simply click “Go”. The model will proceed until it reaches the maximum run time, during which plots and key performance metrics will update dynamically in real time on the monitors.
  
 
 # Evaluating the model simulation
