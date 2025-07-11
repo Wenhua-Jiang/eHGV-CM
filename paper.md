@@ -5,15 +5,17 @@ authors:
     affiliation: 1
     corresponding: true # (This is how to denote the corresponding author)
   - name: Nick Malleson
-    affiliation: "1, 2"
+    affiliation: "2, 3"
   - name: Mark Birkin
-    affiliation: "1, 2"
+    affiliation: "2, 3"
 affiliations:
- - name: Alan Turing Institute, British Library, 96 Euston Road, London NW1 2DB, United Kingdom
+ - name: Heriot-Watt University, Edinburgh, EH14 4AS, United Kingdom
    index: 1
- - name: Institute for Spatial Data Science, School of Geography, University of Leeds, Woodhouse Lane, Leeds LS2 9JT, United Kingdom
+ - name: Alan Turing Institute, British Library, 96 Euston Road, London NW1 2DB, United Kingdom
    index: 2
-date: 6 September 2024
+ - name: Institute for Spatial Data Science, School of Geography, University of Leeds, Woodhouse Lane, Leeds LS2 9JT, United Kingdom
+   index: 3
+date: 11 July 2025
 bibliography: paper.bib
 ---
 
